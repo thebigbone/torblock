@@ -1,1 +1,2 @@
-# not ready yet
+## Basic usage
+> go run main.go -u <sitename>
