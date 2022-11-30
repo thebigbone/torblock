@@ -1,2 +1,2 @@
 ## Basic usage
-> go run main.go -u <sitename>
+> go run main.go -u {sitename}
